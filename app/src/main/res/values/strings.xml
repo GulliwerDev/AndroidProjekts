@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DiskGallery</string>
+
+    <string name="title_activity_big_image">BigImageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="title_activity_test_full_screen">TestFullScreen</string>
+    <string name="back">back</string>
+    <string name="AuthError">AuthError</string>
+    <string name="error">error</string>
+</resources>
